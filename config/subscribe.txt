@@ -5,9 +5,9 @@
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 #二、TVBox专用源 
 #TVBox直播源‌：2026年最新接口
-http://wl.iptv4.top/wl/a/1691001273.txt
+#http://wl.iptv4.top/wl/a/1691001273.txt
 #影视仓多仓地址‌：支持多接口配置
-https://jihulab.com/z-blog/xh2/-/raw/main/t3.json
+#https://jihulab.com/z-blog/xh2/-/raw/main/t3.json
 #三、开源项目源
 #iptv-org全球源‌：含中国频道合集
 https://iptv-org.github.io/iptv/channels/cn.m3u
