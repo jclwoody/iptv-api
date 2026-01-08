@@ -1,9 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-#一、通用直播源 
-#ipv4直播源‌：免费使用，人多时可能卡顿
-http://m3utv.top/ipv4.m3u
 #ipv6直播源‌：专为IPv6优化，自动验证稳定性
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 #二、TVBox专用源 
@@ -16,19 +13,8 @@ https://jihulab.com/z-blog/xh2/-/raw/main/t3.json
 https://iptv-org.github.io/iptv/channels/cn.m3u
 #GitHub直播源‌：自动验证的稳定源
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
-#四、地区运营商源
-#北京联通/电信/移动组播‌：需选择对应运营商
-http://www.kodiplayer.cn/movie/2898.html
-#上海电信/联通/移动组播‌：同上
-http://www.kodiplayer.cn/movie/2898.html
-#五、其他推荐
-#2025高质量源‌：长期更新，含春晚频道
-https://iptv.hacks.tools
-#千万条TV订阅源‌：多接口兼容
-http://itvbox.cc/tvbox/云星日记/1.m3u8
-#注意‌：部分源可能失效，建议多备几个。使用时请遵守当地法规。
 
-
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 
 [WHITELIST]
