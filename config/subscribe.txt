@@ -12,9 +12,9 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 #iptv-org全球源‌：含中国频道合集
 https://iptv-org.github.io/iptv/channels/cn.m3u
 #GitHub直播源‌：自动验证的稳定源
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+#https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+#https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 
 [WHITELIST]
