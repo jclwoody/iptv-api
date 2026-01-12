@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-12 18:18:58,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-01-13 06:13:42,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -9,16 +9,19 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
+河南卫视,http://23.237.228.134/live6/henan.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
