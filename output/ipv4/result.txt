@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-16 06:15:52,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-01-16 18:16:23,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV-5+,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
