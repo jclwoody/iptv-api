@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 18:21:12,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-01-20 06:15:08,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -28,7 +28,6 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-山东卫视,http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
