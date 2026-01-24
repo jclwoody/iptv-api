@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-24 06:12:46,http://23.237.228.134/live5/CCTV3.m3u8
+2026-01-24 18:14:52,http://23.237.228.134/live5/CCTV3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
+CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
