@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-26 18:20:00,http://23.237.228.134/live5/CCTV2.m3u8
+2026-01-27 06:15:56,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
@@ -17,14 +17,14 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
@@ -34,6 +34,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+四川卫视,http://223.105.252.8/PLTV/4/224/3221228171/index.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8
@@ -42,3 +43,4 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
