@@ -1,12 +1,13 @@
 🕘️更新时间,#genre#
-2026-02-04 06:22:48,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-04 18:32:06,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
+CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 📡卫视频道,#genre#
@@ -17,14 +18,11 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 
 ☘️广东频道,#genre#
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
