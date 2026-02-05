@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-05 06:19:01,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-05 18:33:55,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -7,7 +7,7 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
-CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
