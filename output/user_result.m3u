@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jclwoody/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV4K.png" group-title="🕘️更新时间",2026-02-20 18:30:01
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV4K.png" group-title="🕘️更新时间",2026-02-21 06:17:46
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -48,7 +48,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://23.237.228.134/live6/guangdong.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://69.30.246.194/live/zjws.m3u8
+http://23.237.228.134/live6/zhejiang.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -68,7 +68,7 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://23.237.228.134/live6/guizhou.m3u8
+http://23.237.228.134/live6/guangxi.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://23.237.228.134/live6/hainan.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/海南卫视.png" group-title="📡卫视频道",海南卫视
