@@ -1,15 +1,13 @@
 🕘️更新时间,#genre#
-2026-04-04 18:25:47,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-05 06:21:30,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
-CCTV-6,http://dms.yryyj.site:8188/udp/239.76.246.156:1234
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-10,http://dms.yryyj.site:8188/udp/239.76.246.160:1234
-CCTV-11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
+CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 
 📡卫视频道,#genre#
@@ -19,13 +17,9 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://111.56.90.5/000000000000/1000000002000019837/1.m3u8
 贵州卫视,http://111.56.90.5/000000000000/1000000002000003169/1.m3u8
-江苏卫视,http://dms.yryyj.site:8188/udp/239.76.246.181:1234
-江西卫视,http://dms.yryyj.site:8188/udp/239.76.245.225:1234
-辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 内蒙古卫视,http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
