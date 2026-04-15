@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jclwoody/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV4K.png" group-title="🕘️更新时间",2026-04-15 18:53:56
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV4K.png" group-title="🕘️更新时间",2026-04-16 06:35:12
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/e.xml/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -54,11 +54,11 @@ http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -125,7 +125,5 @@ http://183.11.239.36:808/hls/18/index.m3u8
 http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="http://epg.51zmt.top:8000/e.xml/广州综合.png" group-title="☘️广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="http://epg.51zmt.top:8000/e.xml/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/e.xml/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
