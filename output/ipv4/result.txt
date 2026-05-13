@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-13 20:13:53,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+2026-05-14 06:58:34,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 
 📺央视频道,#genre#
 CCTV-4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
@@ -8,9 +8,9 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-安徽卫视,http://111.61.236.247:9081/hls/27/index.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8
+江苏卫视,http://218.13.170.98:9901/tsfile/live/1003_1.m3u8
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
