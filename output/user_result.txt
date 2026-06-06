@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 19:18:49,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+2026-06-07 06:56:40,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 
 📺央视频道,#genre#
 CCTV-4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
