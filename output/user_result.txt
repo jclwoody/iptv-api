@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-21 20:06:50,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+2026-06-22 07:02:30,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 
 📺央视频道,#genre#
 CCTV-4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
@@ -18,7 +18,7 @@ CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
+CCTV-15,http://123.130.84.106:8154/tsfile/live/0015_1.m3u8
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
