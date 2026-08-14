@@ -1,34 +1,41 @@
 🕘️更新时间,#genre#
-2026-08-14 18:51:34,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
+2026-08-15 06:15:19,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
-CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
-CCTV-5,http://112.30.73.119:229/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
-CCTV-15,http://113.90.154.189:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+CCTV-4,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+CCTV-5,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
+CCTV-8,http://61.161.61.119:9004/hls/10/index.m3u8
+CCTV-10,http://139.227.21.22:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://1.190.240.47:9003/hls/3016/index.m3u8
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-广西卫视,http://1.190.240.47:9003/hls/3057/index.m3u8
+湖北卫视,http://1.190.240.47:9003/hls/3049/index.m3u8
+黑龙江卫视,http://111.8.224.6:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://1.190.240.47:9003/hls/3054/index.m3u8
+重庆卫视,http://220.192.165.126:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://1.190.240.47:9003/hls/3064/index.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-海南卫视,http://1.190.240.47:9003/hls/3072/index.m3u8
-吉林卫视,http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://1.190.240.47:9003/hls/3066/index.m3u8
+河北卫视,http://61.161.61.119:9004/hls/59/index.m3u8
+吉林卫视,http://111.8.242.142:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-山东卫视,http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+青海卫视,http://111.8.242.142:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.190.240.47:9003/hls/3041/index.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+深圳卫视,http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-新疆卫视,http://1.190.240.47:9003/hls/3071/index.m3u8
 
 ☘️广东频道,#genre#
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-广东民生,http://218.13.138.139:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://183.234.143.5:9902/tsfile/live/1062_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
